@@ -1,0 +1,10 @@
+
+Literature consulted: 
+
+https://www.geeksforgeeks.org/python-pandas-series-dt-date/
+
+https://flask-sqlalchemy.palletsprojects.com/en/2.x/
+
+https://docs.python.org/3/library/datetime.html
+
+https://www.geeksforgeeks.org/differences-flatten-ravel-numpy/
